@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm @ckern-py</h1>
-<h3 align="center">A backend developer from Iowa</h3>
+<h3 align="center">A developer from Iowa</h3>
 
 - 🔭 I’m currently working on [Creating my own website](https://github.com/ckern-py/PersonalWebsite)
 
@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ckern-py?tab=repositories](https://github.com/ckern-py?tab=repositories)
 
-- 📫 How to reach me _**Link coming soon**_
+- 📫 How to reach me, head to my website and fill out the Contact Me form http://colinkern.centralus.cloudapp.azure.com/Contact
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img alt="azure" width="40" height="40"/> 
