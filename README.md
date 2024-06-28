@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm @ckern-py</h1>
 <h3 align="center">A developer from Iowa</h3>
 
-- 🔭 I’m currently working on [Creating my own website](https://github.com/ckern-py/CK_Website_2024)
+- 🔭 I’m currently working on [Creating my own website](https://github.com/ckern-py/PersonalWebsite_CK)
 
 - 🌱 I’m currently learning **.NET Framework and about Azure cloud**
 
